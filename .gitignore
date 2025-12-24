@@ -1,0 +1,18 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.env
+.venv
+
+# Logs
+log/*.log
+
+# Note data files
+data/*.txt
+
+# OS metadata
+.DS_Store
+Thumbs.db

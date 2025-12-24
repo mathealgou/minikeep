@@ -1,0 +1,5 @@
+{
+	"port": 8100,
+	"password": "s3cret",
+	"log_retention_hours": 48
+}
